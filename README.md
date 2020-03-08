@@ -40,7 +40,7 @@ This article explains how the human brain reconstructs the visual world, how mac
 
 ![Conv](test/albert.png)
 
-##Deep Learning for Image Classification
+### Deep Learning for Image Classification
 
 Deep learning, a subset of Artificial Intelligence (AI), uses large datasets to recognize patterns within input images and produce meaningful classes with which to label the images. A common deep learning method for image classification is to train an Artificial Neural Network (ANN) to process input images and generate an output with a class for the image.
 
