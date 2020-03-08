@@ -29,7 +29,9 @@
 
 ```python3 train_NN.py```  
 
+![Conv](test/Figure_1.png)
 
+-----------------------------------------------------------------------------------------------------------------------------
 Teaching computers to understand what they see is the subject that keeps all the computer vision engineers awake. Even though a lot of progress has been accomplished in Image Recognition field over the past few years, there are a lot of puzzle pieces still missing that should fit together to get a complete and clear picture on how to teach machines to make sense of what they see.
 
 For a long time Image Classification was not considered as a statistical problem until a partial solution came from the Machine Learning field under the name of Neural Networks, in particular, Convolutional Neural Networks (CNN). CNN is a special type of Artificial Neural Networks that offer human-like results in image classification tasks.
