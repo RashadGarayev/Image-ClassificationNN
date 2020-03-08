@@ -73,6 +73,7 @@ Intersection over Union (IoU), also known as the Jaccard index, is the most popu
 ![Conv](test/iou.jpg)
 
 ## Reference
+* https://datascience-enthusiast.com/DL/Convolution_model_Step_by_Stepv2.html
 * https://giou.stanford.edu/
 * https://mc.ai/object-detection-iou-intersection-over-union/
 * https://en.wikipedia.org/wiki/Jaccard_index
