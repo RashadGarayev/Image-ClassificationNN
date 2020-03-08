@@ -15,10 +15,6 @@ train_images = [TRAIN_DIR+i for i in os.listdir(TRAIN_DIR)]
 test_images =  [TEST_DIR+i for i in os.listdir(TEST_DIR)]
 
 
-train_images = [TRAIN_DIR+i for i in os.listdir(TRAIN_DIR)]
-test_images =  [TEST_DIR+i for i in os.listdir(TEST_DIR)]
-
-
 def read_image(file_path):
     img = cv2.imread(file_path, cv2.IMREAD_COLOR)
     img = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
