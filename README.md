@@ -1,4 +1,4 @@
-#Image Classification using Machine Learning
+## Image Classification using Machine Learning
 
 Teaching computers to understand what they see is the subject that keeps all the computer vision engineers awake. Even though a lot of progress has been accomplished in Image Recognition field over the past few years, there are a lot of puzzle pieces still missing that should fit together to get a complete and clear picture on how to teach machines to make sense of what they see.
 
