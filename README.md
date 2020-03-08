@@ -71,3 +71,4 @@ In selective search paper, authors use this algorithm on object detection and tr
 * https://en.wikipedia.org/wiki/Jaccard_index
 * https://en.wikipedia.org/wiki/Kernel_(image_processing)
 * https://en.wikipedia.org/wiki/Kernel_(image_processing)
+* https://www.pyimagesearch.com/
