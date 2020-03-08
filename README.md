@@ -1,4 +1,34 @@
 ## Image Classification using Machine Learning
+**Note: Python 2.x is not supported**
+<img src="https://camo.githubusercontent.com/ba2171fe9ab58bba2f169b740c35c26bd3cb4241/68747470733a2f2f696d672e736869656c64732e696f2f707970692f707976657273696f6e732f70796261646765732e737667" alt="versions" data-canonical-src="https://img.shields.io/pypi/pyversions/pybadges.svg" style="max-width:100%;">
+
+## Python packages
+* numpy
+* sklearn
+* OpenCv
+* selectivesearch
+* Matplotlib
+
+
+
+
+
+
+## Installation ##
+>
+    
+    $ pip3 install -r requirements.txt
+
+
+
+## Usage
+  
+
+
+```python3 data-preparation.py```  
+
+```python3 train_NN.py```  
+
 
 Teaching computers to understand what they see is the subject that keeps all the computer vision engineers awake. Even though a lot of progress has been accomplished in Image Recognition field over the past few years, there are a lot of puzzle pieces still missing that should fit together to get a complete and clear picture on how to teach machines to make sense of what they see.
 
@@ -21,41 +51,6 @@ The challenge with deep learning for image classification is that it can take a 
 
 
 To show objects distinctly using the deep learning which is the actively using for last years. In this subject I have tried to show how to apply functions , passing through active functions. In the near future, we will gain in-depth knowledge of the results we have obtained in addition to these codes by developing an artificial neural network with a numpy library
-
-### Requirements
-opencv   
-numpy   
-selectivesearch  
-matplotlib 
-
-
-
-
-
-
-## Installation ##
->
-    
-    $ pip3 install -r requirements.txt
-
-### Data Visualization using Matplotlib
-
-### for linux
-
->
-    $ sudo apt-get install build-essential
-    $ sudo apt-get install qtcreator
-    $ sudo apt-get install qt5-default 
-
------------------------------------------------------------------
-
-## Usage
-  
-
-
-```python3 data-preparation.py```  
-
-```python3 train_NN.py```  
 
 
 
