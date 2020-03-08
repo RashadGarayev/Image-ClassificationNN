@@ -64,6 +64,11 @@ In selective search paper, authors use this algorithm on object detection and tr
 
 ![Conv](test/sel.png)
 
+## Object Detection and IoU
+
+Intersection over Union (IoU), also known as the Jaccard index, is the most popular evaluation metric for tasks such as segmentation, object detection and tracking. Object detection consists of two sub-tasks: localization, which is determining the location of an object in an image, and classification, which is assigning a class to that object. 
+
+![Conv](test/iou.png)
 
 ## Reference
 
