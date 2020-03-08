@@ -77,5 +77,4 @@ Intersection over Union (IoU), also known as the Jaccard index, is the most popu
 * https://mc.ai/object-detection-iou-intersection-over-union/
 * https://en.wikipedia.org/wiki/Jaccard_index
 * https://en.wikipedia.org/wiki/Kernel_(image_processing)
-* https://en.wikipedia.org/wiki/Kernel_(image_processing)
 * https://www.pyimagesearch.com/
