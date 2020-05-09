@@ -48,7 +48,7 @@ The challenge with deep learning for image classification is that it can take a 
 
 ![Conv](test/deep.png)
 -----------------------------------------------------------------
-## Simple Neural Network  (Our model)
+## Simple Neural Network  
 
 ![Conv](test/nn.jpeg)
 
